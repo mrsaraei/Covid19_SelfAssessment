@@ -1,5 +1,5 @@
 # Covid19_SelfAssessment
-**Machine Learning Approaches in Self-Assessment of COVID-19**
+**A New Approach of High-Accurate Automatic Comparative Machine Learning in COVID-19 Multi-Source Data Based on Descended Hybrid Scores Average**
 
 **Authors:**
 
